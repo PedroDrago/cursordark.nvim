@@ -1,4 +1,4 @@
-# nvim-mytheme
+# cursordark.nvim
 
 Neovim version of [Cursor Dark Theme for vscode](https://marketplace.visualstudio.com/items?itemName=imzivko.cursor-dark-core) generated with [Djanho](https://github.com/viniciusmuller/djanho)
 
