@@ -10,6 +10,6 @@ Neovim version of [Cursor Dark Theme for vscode](https://marketplace.visualstudi
   lazy = false,
   priority = 1000,
   config = function()
-    vim.cmd("colorscheme cursordark.nvim")
+    vim.cmd("colorscheme cursordark")
   end,
 }
