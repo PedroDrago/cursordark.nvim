@@ -2,6 +2,8 @@
 
 Neovim version of [Cursor Dark Theme for vscode](https://marketplace.visualstudio.com/items?itemName=imzivko.cursor-dark-core) generated with [Djanho](https://github.com/viniciusmuller/djanho)
 
+**OBS**: The result is not identical to cursor/vscode themes. [cursordark.json](./cursordark.json) is the original json from [Cursor Dark Theme for vscode extension](https://marketplace.visualstudio.com/items?itemName=imzivko.cursor-dark-core). 
+
 ![print](./assets/demonstration.png)
 
 ## Installation (Lazy.nvim)
@@ -16,5 +18,3 @@ Neovim version of [Cursor Dark Theme for vscode](https://marketplace.visualstudi
   end,
 }
 ``` 
-
-**OBS**: The result is not identical to cursor/vscode themes. [cursordark.json](./cursordark.json) is the original json from [Cursor Dark Theme for vscode extension](https://marketplace.visualstudio.com/items?itemName=imzivko.cursor-dark-core). 
