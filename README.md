@@ -15,5 +15,6 @@ Neovim version of [Cursor Dark Theme for vscode](https://marketplace.visualstudi
     vim.cmd("colorscheme cursordark")
   end,
 }
+``` 
 
-**OBS**: [cursordark.json](./cursordark.json) is the original json from [Cursor Dark Theme for vscode extension](https://marketplace.visualstudio.com/items?itemName=imzivko.cursor-dark-core). 
+**OBS**: The result is not identical to cursor/vscode themes. [cursordark.json](./cursordark.json) is the original json from [Cursor Dark Theme for vscode extension](https://marketplace.visualstudio.com/items?itemName=imzivko.cursor-dark-core). 
